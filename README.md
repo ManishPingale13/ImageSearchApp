@@ -1,1 +1,2 @@
-# MVVM Image Search App with Architecture Components & Retrofit
+#  Image Search App 
+#Technologies used  MVVM,Architecture Components & Retrofit
